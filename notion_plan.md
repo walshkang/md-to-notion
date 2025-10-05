@@ -50,13 +50,6 @@
 - **Goal**: To integrate the Gemini API for natural language processing and enhance the route generation engine to produce multiple, preference-based route options.
 - **Timeline**: Weeks 5-6
 
-#### Sprint 5 (Week 5): Gemini Intent Interpretation
-- **Goal**: Set up Gemini API integration and build the UI for parsing natural language queries.
-- [ ] Setup Gemini API Service
-- [ ] Implement Query Parsing
-- [ ] Build Intent Interpretation UI
-- [ ] Add Contextual Tooltips
-
 #### Sprint 6 (Week 6): Parameter Gallery & Multi-Route Generation
 - **Goal**: Build the customization room and expand the route generation engine to create variants based on user preferences.
 - [ ] Build Multi-Route Generation Logic
